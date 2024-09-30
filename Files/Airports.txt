@@ -1,0 +1,39 @@
+1	MMIA	Lagos	Nigeria	International	False
+1	IAIA	Abuja	Nigeria	International	False
+1	OSLA	Ondo	Nigeria	Local	False
+1	MMIA	CLH/Port/001	Lagos	Nigeria	International	False
+1	IAIA	CLH/Port/002	Abuja	Nigeria	International	False
+1	OSLA	CLH/Port/003	Ondo	Nigeria	Local	False
+1	MMIA	CLH/Port/001	Lagos	Nigeria	International	False
+1	IAIA	CLH/Port/002	Abuja	Nigeria	International	False
+1	OSLA	CLH/Port/003	Ondo	Nigeria	Local	False
+1	MMIA	CLH/Port/001	Lagos	Nigeria	International	False
+1	IAIA	CLH/Port/002	Abuja	Nigeria	International	False
+1	OSLA	CLH/Port/003	Ondo	Nigeria	Local	False
+1	MMIA	CLH/Port/001	Lagos	Nigeria	International	False
+1	IAIA	CLH/Port/002	Abuja	Nigeria	International	False
+1	OSLA	CLH/Port/003	Ondo	Nigeria	Local	False
+1	MMIA	CLH/Port/001	Lagos	Nigeria	International	False
+1	IAIA	CLH/Port/002	Abuja	Nigeria	International	False
+1	OSLA	CLH/Port/003	Ondo	Nigeria	Local	False
+1	MMIA	CLH/Port/001	Lagos	Nigeria	International	False
+1	IAIA	CLH/Port/002	Abuja	Nigeria	International	False
+1	OSLA	CLH/Port/003	Ondo	Nigeria	Local	False
+1	MMIA	CLH/Port/001	Lagos	Nigeria	International	False
+1	IAIA	CLH/Port/002	Abuja	Nigeria	International	False
+1	OSLA	CLH/Port/003	Ondo	Nigeria	Local	False
+1	MMIA	CLH/Port/001	Lagos	Nigeria	International	False
+1	IAIA	CLH/Port/002	Abuja	Nigeria	International	False
+1	OSLA	CLH/Port/003	Ondo	Nigeria	Local	False
+1	MMIA	CLH/Port/001	Lagos	Nigeria	International	False
+2	IAIA	CLH/Port/002	Abuja	Nigeria	International	False
+3	OSLA	CLH/Port/003	Ondo	Nigeria	Local	False
+1	MMIA	CLH/Port/001	Lagos	Nigeria	International	False
+2	IAIA	CLH/Port/002	Abuja	Nigeria	International	False
+3	OSLA	CLH/Port/003	Ondo	Nigeria	Local	False
+1	MMIA	CLH/Port/001	Lagos	Nigeria	International	False
+2	IAIA	CLH/Port/002	Abuja	Nigeria	International	False
+3	OSLA	CLH/Port/003	Ondo	Nigeria	Local	False
+1	MMIA	CLH/Port/001	Lagos	Nigeria	International	False
+2	IAIA	CLH/Port/002	Abuja	Nigeria	International	False
+3	OSLA	CLH/Port/003	Ondo	Nigeria	Local	False

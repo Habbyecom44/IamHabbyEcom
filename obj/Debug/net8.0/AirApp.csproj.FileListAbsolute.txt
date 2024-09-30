@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\AirApp\bin\Debug\net8.0\AirApp.exe
+C:\Users\User\Desktop\AirApp\bin\Debug\net8.0\AirApp.deps.json
+C:\Users\User\Desktop\AirApp\bin\Debug\net8.0\AirApp.runtimeconfig.json
+C:\Users\User\Desktop\AirApp\bin\Debug\net8.0\AirApp.dll
+C:\Users\User\Desktop\AirApp\bin\Debug\net8.0\AirApp.pdb
+C:\Users\User\Desktop\AirApp\obj\Debug\net8.0\AirApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\AirApp\obj\Debug\net8.0\AirApp.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\AirApp\obj\Debug\net8.0\AirApp.AssemblyInfo.cs
+C:\Users\User\Desktop\AirApp\obj\Debug\net8.0\AirApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\AirApp\obj\Debug\net8.0\AirApp.dll
+C:\Users\User\Desktop\AirApp\obj\Debug\net8.0\refint\AirApp.dll
+C:\Users\User\Desktop\AirApp\obj\Debug\net8.0\AirApp.pdb
+C:\Users\User\Desktop\AirApp\obj\Debug\net8.0\AirApp.genruntimeconfig.cache
+C:\Users\User\Desktop\AirApp\obj\Debug\net8.0\ref\AirApp.dll

@@ -1,0 +1,15 @@
+C:\Users\USER\Documents\Dev\AirApp\obj\Debug\net6.0\AirApp.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\Dev\AirApp\obj\Debug\net6.0\AirApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\Dev\AirApp\obj\Debug\net6.0\AirApp.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\Dev\AirApp\obj\Debug\net6.0\AirApp.AssemblyInfo.cs
+C:\Users\USER\Documents\Dev\AirApp\obj\Debug\net6.0\AirApp.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Dev\AirApp\bin\Debug\net6.0\AirApp.exe
+C:\Users\USER\Documents\Dev\AirApp\bin\Debug\net6.0\AirApp.deps.json
+C:\Users\USER\Documents\Dev\AirApp\bin\Debug\net6.0\AirApp.runtimeconfig.json
+C:\Users\USER\Documents\Dev\AirApp\bin\Debug\net6.0\AirApp.dll
+C:\Users\USER\Documents\Dev\AirApp\bin\Debug\net6.0\AirApp.pdb
+C:\Users\USER\Documents\Dev\AirApp\obj\Debug\net6.0\AirApp.dll
+C:\Users\USER\Documents\Dev\AirApp\obj\Debug\net6.0\refint\AirApp.dll
+C:\Users\USER\Documents\Dev\AirApp\obj\Debug\net6.0\AirApp.pdb
+C:\Users\USER\Documents\Dev\AirApp\obj\Debug\net6.0\AirApp.genruntimeconfig.cache
+C:\Users\USER\Documents\Dev\AirApp\obj\Debug\net6.0\ref\AirApp.dll

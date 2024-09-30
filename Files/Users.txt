@@ -1,0 +1,13 @@
+1	admin@gmail.com	pass	app_admin	False
+1	admin@gmail.com	pass	app_admin	False
+1	admin@gmail.com	pass	app_admin	False
+1	admin@gmail.com	pass	app_admin	False
+1	admin@gmail.com	pass	app_admin	False
+1	admin@gmail.com	pass	app_admin	False
+1	admin@gmail.com	pass	app_admin	False
+1	admin@gmail.com	pass	app_admin	False
+1	admin@gmail.com	pass	app_admin	False
+1	admin@gmail.com	pass	app_admin	False
+1	admin@gmail.com	pass	app_admin	False
+1	admin@gmail.com	pass	app_admin	False
+1	admin@gmail.com	pass	app_admin	False
